@@ -1,0 +1,12 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/models/Food.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
